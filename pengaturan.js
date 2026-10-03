@@ -8,6 +8,6 @@ const CONFIG_APP = {
     namaVendor: "Ttwinsselect",
 
     // 2. Google Drive API Key (Penting agar galeri bisa memuat foto)
-    googleApiKey: "AIzaSyAZczbLeVTXl-QKqLDJFWQLCd-lW9jqqxo",
+    googleApiKey: "AIzaSyAOptS7mG6uM9Drt7Hpd5dt5pDfjv5DYqY",
     whatsappAdmin: "62895401147773" // <-- TAMBAHKAN BARIS INI (Ganti dengan nomor WA admin)
 };
